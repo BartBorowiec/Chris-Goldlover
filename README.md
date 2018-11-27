@@ -1,3 +1,3 @@
 # Chris Goldlover
 
-Pomóż Krzysiowi zebrać wszystkie złote monety. Sterowanie - strzałki. Nie wyjdź poza planszę!
+Help Chris collect gold coins. Don't leave the grid! Controls: arrows.
